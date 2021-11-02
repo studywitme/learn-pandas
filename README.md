@@ -1,4 +1,6 @@
-# Tôi tự học Pandas
+# Pandas python
+
+## I. Bắt đầu học cách sử dụng pandas
 
 ##### 1. Đọc file csv sử dụng thư viện pandas
 
