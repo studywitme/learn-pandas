@@ -1,6 +1,8 @@
 # Pandas python
 
-## I. Bắt đầu học cách sử dụng pandas
+## I. Getting pandas
+
+## II. File csv
 
 ##### 1. Đọc file csv sử dụng thư viện pandas
 
